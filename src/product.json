@@ -1,0 +1,55 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "image": "/images/NA-T1.png",
+            "productName": "T-shirt with tape detail",
+            "productPrice": "RS. 800"
+        },
+        {
+            "id": "2",
+            "image": "/images/NA-P1.png",
+            "productName": "T-shirt",
+            "productPrice": "RS. 800"
+        },
+        {
+            "id": "3",
+            "image": "/images/NA-S1.png",
+            "productName": "T-shirt with tape detail",
+            "productPrice": "RS. 800"
+        },
+        {
+            "id": "4",
+            "image": "/images/NA-T2.png",
+            "productName": "T-shirt with tape detail",
+            "productPrice": "RS. 800"
+        }
+        
+    ],
+    "featuredProducts": [
+        {
+            "id": "1",
+            "image": "/images/TS-S.png",
+            "productName": "Featured T-shirt",
+            "productPrice": "RS. 1000"
+        },
+        {
+            "id": "2",
+            "image": "/images/TS-T.png",
+            "productName": "Featured Pants",
+            "productPrice": "RS. 1200"
+        },
+        {
+            "id": "3",
+            "image": "/images/TS-SH.png",
+            "productName": "Featured Shoes",
+            "productPrice": "RS. 2000"
+        },
+        {
+            "id": "4",
+            "image": "/images/TS-P.png",
+            "productName": "Featured Shoes",
+            "productPrice": "RS. 2000" 
+        }
+    ]
+}
